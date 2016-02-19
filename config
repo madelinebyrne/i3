@@ -1,10 +1,6 @@
-bar
-{
-	i3bar_command /home/madelinebyrne/.i3/i3bar
-}
 
 #configuring wifi?? (DOESN'T WORK)
-exec --no-startup-id nm-applet
+#exec --no-startup-id nm-applet
 
 #set background image (DOESN'T WORK)
 exec --no-startup-id feh --bg-fill ~/Pictures/BlurryBackground.jpg
