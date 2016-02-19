@@ -1,8 +1,8 @@
 
 #configuring wifi?? (DOESN'T WORK)
-#exec --no-startup-id nm-applet
+exec --no-startup-id nm-applet
 
-#set wallpaper on startup (DOESN'T WORK)
+#set wallpaper on startup 
 exec --no-startup-id feh --bg-fill ~/Pictures/BlurryBackground.jpg
 exec --no-startup-id setxkbmap us
 
