@@ -5,6 +5,10 @@ exec --no-startup-id nm-applet
 #set wallpaper on startup 
 exec --no-startup-id feh --bg-fill ~/Pictures/BlurryBackground.jpg
 exec --no-startup-id setxkbmap us
+exec --no-startup-id volumeicon
+
+	#http://dotshare.it/dots/935/0/raw/
+	#reference
 
 #launching chrome on startup
 exec google-chrome
