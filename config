@@ -13,7 +13,7 @@ exec --no-startup-id volumeicon
 #launching chrome on startup
 exec google-chrome
 #launch hexchat on startup
-exec hexchat
+#exec hexchat
 
 #workspace assignments
 assign [class="Google Chrome"] 2
