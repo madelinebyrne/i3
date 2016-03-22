@@ -15,7 +15,7 @@ exec --no-startup-id volumeicon
 #launch hexchat on startup
 #exec hexchat
 
-exec google-chrome --user-data-dir=/tmp/chrome-test --class=chrometest http://whatcolourisit.scn9a.org/
+exec google-chrome  http://whatcolourisit.scn9a.org/
 
 #workspace assignment (Doesn't work)
 #assign [class="Google Chrome"] 2
@@ -176,11 +176,5 @@ bindsym $mod+r mode "resize"
 # finds out, if available)
 bar {
         status_command i3status
-	position top
-	colors
-	{
-	       background #000000
-	       statusline #d62c2c
-	       separator #999999
-	}	
+	position top	
 }
