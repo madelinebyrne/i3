@@ -15,7 +15,7 @@ exec --no-startup-id volumeicon
 #launch hexchat on startup
 #exec hexchat
 
-exec google-chrome  http://whatcolourisit.scn9a.org/
+exec google-chrome  https://drive.google.com/drive/
 
 #workspace assignment (Doesn't work)
 #assign [class="Google Chrome"] 2
